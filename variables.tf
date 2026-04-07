@@ -14,8 +14,14 @@ variable "vm_size" {
   default = "Standard_B2s"
 }
 
+
 variable "admin_password" {
   type = string
   description="Passsword"
     default = "MSAzure@12345"
+}
+
+variable "test_var" {
+    type = string
+    description = "this is a test variable"  
 }
