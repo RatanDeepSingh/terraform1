@@ -25,3 +25,8 @@ variable "test_var" {
     type = string
     description = "this is a test variable"  
 }
+
+variable "test_var2" {
+    type = string
+    description = "this is a test variable2"  
+}
