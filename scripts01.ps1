@@ -1,0 +1,1 @@
+Write-Host "Hello from PowerShell! - Script 1"
